@@ -8,3 +8,4 @@
 # Olivier GABRIEL
 # https://github.com/uvsq22005256/projet_incendie
 #########################################
+print("A")
