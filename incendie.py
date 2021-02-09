@@ -1,6 +1,6 @@
 #########################################
 # groupe  2 MPCI 6
-# Claude Chibout
+# Claude efuhgohh
 # Cyril CLOVIS
 # Dylan THUILLIER
 # Abdel karim BOURAOUI
@@ -8,4 +8,4 @@
 # Olivier GABRIEL
 # https://github.com/uvsq22005256/projet_incendie
 #########################################
-print(a)
+print("blblleokfegruhg")
