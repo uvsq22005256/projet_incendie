@@ -1,6 +1,6 @@
 #########################################
 # groupe  2 MPCI 6
-# Claude efuhgohh
+# Claude CHIBOUT
 # Cyril CLOVIS
 # Dylan THUILLIER
 # Abdel karim BOURAOUI
