@@ -1,5 +1,5 @@
 #########################################
-# groupe MPCI 6
+# groupe 2 MPCI 6
 # Claude Chibout
 # Cyril CLOVIS
 # Dylan THUILLIER
