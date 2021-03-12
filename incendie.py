@@ -9,4 +9,11 @@
 # https://github.com/uvsq22005256/projet_incendie
 # https://discord.gg/fNQpuPM3yQ
 #########################################
-print("abc")
+#Variable
+
+#########################################
+#Fonction
+
+
+#########################################
+#Programme principal
